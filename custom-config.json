@@ -1,0 +1,8 @@
+{
+    "initial_stake": 0.5,
+    "stake_list": [0.5, 1, 2, 4, 8, 16, 32, 64, 128, 256],
+    "martingale_multiplier": 2.5,
+    "take_profit": 50,
+    "stop_loss": 50,
+    "ticks": 2
+}
